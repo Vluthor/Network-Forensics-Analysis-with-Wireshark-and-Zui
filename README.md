@@ -61,5 +61,3 @@ This report documents the analysis of a network traffic capture file (`Final.pca
 ## Conclusion
 
 The analysis revealed a malware infection that led to unauthorized access and data exfiltration. The attacker used specific credentials to access a server, and certain patterns in the traffic indicated suspicious activity.
-
-This report provides a comprehensive overview of the network forensics analysis performed. For more details, please refer to the analysis notes and screenshots in the respective folders.
